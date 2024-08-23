@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\412885\\source\\repos\\oops_constructors\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5473C113-9331-44DE-ABD3-305F58208D52}|oops_constructors\\oops_constructors.csproj|c:\\users\\412885\\source\\repos\\oops_constructors\\oops_constructors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5473C113-9331-44DE-ABD3-305F58208D52}|oops_constructors\\oops_constructors.csproj|solutionrelative:oops_constructors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\412885\\source\\repos\\oops_constructors\\oops_constructors\\Program.cs",
+              "RelativeDocumentMoniker": "oops_constructors\\Program.cs",
+              "ToolTip": "C:\\Users\\412885\\source\\repos\\oops_constructors\\oops_constructors\\Program.cs",
+              "RelativeToolTip": "oops_constructors\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:26:35.39Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

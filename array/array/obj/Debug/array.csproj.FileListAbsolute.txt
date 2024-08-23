@@ -1,0 +1,7 @@
+C:\Users\412885\source\repos\array\array\bin\Debug\array.exe.config
+C:\Users\412885\source\repos\array\array\bin\Debug\array.exe
+C:\Users\412885\source\repos\array\array\bin\Debug\array.pdb
+C:\Users\412885\source\repos\array\array\obj\Debug\array.csproj.AssemblyReference.cache
+C:\Users\412885\source\repos\array\array\obj\Debug\array.csproj.CoreCompileInputs.cache
+C:\Users\412885\source\repos\array\array\obj\Debug\array.exe
+C:\Users\412885\source\repos\array\array\obj\Debug\array.pdb

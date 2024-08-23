@@ -1,0 +1,7 @@
+C:\Users\412885\source\repos\calculator_(switch)\calculator_(switch)\bin\Debug\calculator_(switch).exe.config
+C:\Users\412885\source\repos\calculator_(switch)\calculator_(switch)\bin\Debug\calculator_(switch).exe
+C:\Users\412885\source\repos\calculator_(switch)\calculator_(switch)\bin\Debug\calculator_(switch).pdb
+C:\Users\412885\source\repos\calculator_(switch)\calculator_(switch)\obj\Debug\calculator_(switch).csproj.AssemblyReference.cache
+C:\Users\412885\source\repos\calculator_(switch)\calculator_(switch)\obj\Debug\calculator_(switch).csproj.CoreCompileInputs.cache
+C:\Users\412885\source\repos\calculator_(switch)\calculator_(switch)\obj\Debug\calculator_(switch).exe
+C:\Users\412885\source\repos\calculator_(switch)\calculator_(switch)\obj\Debug\calculator_(switch).pdb

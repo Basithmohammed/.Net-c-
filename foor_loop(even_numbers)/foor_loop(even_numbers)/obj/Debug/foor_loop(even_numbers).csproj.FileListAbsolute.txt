@@ -1,0 +1,7 @@
+C:\Users\412885\source\repos\foor_loop(even_numbers)\foor_loop(even_numbers)\bin\Debug\foor_loop(even_numbers).exe.config
+C:\Users\412885\source\repos\foor_loop(even_numbers)\foor_loop(even_numbers)\bin\Debug\foor_loop(even_numbers).exe
+C:\Users\412885\source\repos\foor_loop(even_numbers)\foor_loop(even_numbers)\bin\Debug\foor_loop(even_numbers).pdb
+C:\Users\412885\source\repos\foor_loop(even_numbers)\foor_loop(even_numbers)\obj\Debug\foor_loop(even_numbers).csproj.AssemblyReference.cache
+C:\Users\412885\source\repos\foor_loop(even_numbers)\foor_loop(even_numbers)\obj\Debug\foor_loop(even_numbers).csproj.CoreCompileInputs.cache
+C:\Users\412885\source\repos\foor_loop(even_numbers)\foor_loop(even_numbers)\obj\Debug\foor_loop(even_numbers).exe
+C:\Users\412885\source\repos\foor_loop(even_numbers)\foor_loop(even_numbers)\obj\Debug\foor_loop(even_numbers).pdb

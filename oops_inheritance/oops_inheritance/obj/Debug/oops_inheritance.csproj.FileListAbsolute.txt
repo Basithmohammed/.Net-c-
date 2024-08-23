@@ -1,0 +1,7 @@
+C:\Users\412885\source\repos\oops_inheritance\oops_inheritance\bin\Debug\oops_inheritance.exe.config
+C:\Users\412885\source\repos\oops_inheritance\oops_inheritance\bin\Debug\oops_inheritance.exe
+C:\Users\412885\source\repos\oops_inheritance\oops_inheritance\bin\Debug\oops_inheritance.pdb
+C:\Users\412885\source\repos\oops_inheritance\oops_inheritance\obj\Debug\oops_inheritance.csproj.AssemblyReference.cache
+C:\Users\412885\source\repos\oops_inheritance\oops_inheritance\obj\Debug\oops_inheritance.csproj.CoreCompileInputs.cache
+C:\Users\412885\source\repos\oops_inheritance\oops_inheritance\obj\Debug\oops_inheritance.exe
+C:\Users\412885\source\repos\oops_inheritance\oops_inheritance\obj\Debug\oops_inheritance.pdb

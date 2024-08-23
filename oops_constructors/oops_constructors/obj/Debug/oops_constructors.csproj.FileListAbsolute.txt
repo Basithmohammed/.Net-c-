@@ -1,0 +1,7 @@
+C:\Users\412885\source\repos\oops_constructors\oops_constructors\bin\Debug\oops_constructors.exe.config
+C:\Users\412885\source\repos\oops_constructors\oops_constructors\bin\Debug\oops_constructors.exe
+C:\Users\412885\source\repos\oops_constructors\oops_constructors\bin\Debug\oops_constructors.pdb
+C:\Users\412885\source\repos\oops_constructors\oops_constructors\obj\Debug\oops_constructors.csproj.AssemblyReference.cache
+C:\Users\412885\source\repos\oops_constructors\oops_constructors\obj\Debug\oops_constructors.csproj.CoreCompileInputs.cache
+C:\Users\412885\source\repos\oops_constructors\oops_constructors\obj\Debug\oops_constructors.exe
+C:\Users\412885\source\repos\oops_constructors\oops_constructors\obj\Debug\oops_constructors.pdb

@@ -1,0 +1,7 @@
+C:\Users\412885\source\repos\oops5\oops5\bin\Debug\oops5.exe.config
+C:\Users\412885\source\repos\oops5\oops5\bin\Debug\oops5.exe
+C:\Users\412885\source\repos\oops5\oops5\bin\Debug\oops5.pdb
+C:\Users\412885\source\repos\oops5\oops5\obj\Debug\oops5.csproj.AssemblyReference.cache
+C:\Users\412885\source\repos\oops5\oops5\obj\Debug\oops5.csproj.CoreCompileInputs.cache
+C:\Users\412885\source\repos\oops5\oops5\obj\Debug\oops5.exe
+C:\Users\412885\source\repos\oops5\oops5\obj\Debug\oops5.pdb

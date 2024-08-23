@@ -1,0 +1,7 @@
+C:\Users\412885\source\repos\Percentage_and_Grade\Percentage_and_Grade\bin\Debug\Percentage_and_Grade.exe.config
+C:\Users\412885\source\repos\Percentage_and_Grade\Percentage_and_Grade\bin\Debug\Percentage_and_Grade.exe
+C:\Users\412885\source\repos\Percentage_and_Grade\Percentage_and_Grade\bin\Debug\Percentage_and_Grade.pdb
+C:\Users\412885\source\repos\Percentage_and_Grade\Percentage_and_Grade\obj\Debug\Percentage_and_Grade.csproj.AssemblyReference.cache
+C:\Users\412885\source\repos\Percentage_and_Grade\Percentage_and_Grade\obj\Debug\Percentage_and_Grade.csproj.CoreCompileInputs.cache
+C:\Users\412885\source\repos\Percentage_and_Grade\Percentage_and_Grade\obj\Debug\Percentage_and_Grade.exe
+C:\Users\412885\source\repos\Percentage_and_Grade\Percentage_and_Grade\obj\Debug\Percentage_and_Grade.pdb

@@ -1,0 +1,7 @@
+C:\Users\412885\source\repos\arraysum\arraysum\bin\Debug\arraysum.exe.config
+C:\Users\412885\source\repos\arraysum\arraysum\bin\Debug\arraysum.exe
+C:\Users\412885\source\repos\arraysum\arraysum\bin\Debug\arraysum.pdb
+C:\Users\412885\source\repos\arraysum\arraysum\obj\Debug\arraysum.csproj.AssemblyReference.cache
+C:\Users\412885\source\repos\arraysum\arraysum\obj\Debug\arraysum.csproj.CoreCompileInputs.cache
+C:\Users\412885\source\repos\arraysum\arraysum\obj\Debug\arraysum.exe
+C:\Users\412885\source\repos\arraysum\arraysum\obj\Debug\arraysum.pdb

@@ -1,0 +1,7 @@
+C:\Users\412885\source\repos\oops4\oops4\bin\Debug\oops4.exe.config
+C:\Users\412885\source\repos\oops4\oops4\bin\Debug\oops4.exe
+C:\Users\412885\source\repos\oops4\oops4\bin\Debug\oops4.pdb
+C:\Users\412885\source\repos\oops4\oops4\obj\Debug\oops4.csproj.AssemblyReference.cache
+C:\Users\412885\source\repos\oops4\oops4\obj\Debug\oops4.csproj.CoreCompileInputs.cache
+C:\Users\412885\source\repos\oops4\oops4\obj\Debug\oops4.exe
+C:\Users\412885\source\repos\oops4\oops4\obj\Debug\oops4.pdb

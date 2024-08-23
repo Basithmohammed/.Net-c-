@@ -1,0 +1,7 @@
+C:\Users\412885\source\repos\methods_functions\methods_functions\bin\Debug\methods_functions.exe.config
+C:\Users\412885\source\repos\methods_functions\methods_functions\bin\Debug\methods_functions.exe
+C:\Users\412885\source\repos\methods_functions\methods_functions\bin\Debug\methods_functions.pdb
+C:\Users\412885\source\repos\methods_functions\methods_functions\obj\Debug\methods_functions.csproj.AssemblyReference.cache
+C:\Users\412885\source\repos\methods_functions\methods_functions\obj\Debug\methods_functions.csproj.CoreCompileInputs.cache
+C:\Users\412885\source\repos\methods_functions\methods_functions\obj\Debug\methods_functions.exe
+C:\Users\412885\source\repos\methods_functions\methods_functions\obj\Debug\methods_functions.pdb

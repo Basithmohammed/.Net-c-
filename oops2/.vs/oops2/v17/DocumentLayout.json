@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\412885\\source\\repos\\oops2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCB85FD-6A90-4878-A622-86C6AC5A4B2A}|oops2\\oops2.csproj|c:\\users\\412885\\source\\repos\\oops2\\oops2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCB85FD-6A90-4878-A622-86C6AC5A4B2A}|oops2\\oops2.csproj|solutionrelative:oops2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\412885\\source\\repos\\oops2\\oops2\\Program.cs",
+              "RelativeDocumentMoniker": "oops2\\Program.cs",
+              "ToolTip": "C:\\Users\\412885\\source\\repos\\oops2\\oops2\\Program.cs",
+              "RelativeToolTip": "oops2\\Program.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwCcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T04:22:48.831Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

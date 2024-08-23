@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\412885\\source\\repos\\foor_loop(even_numbers)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFA2872-AD0D-476F-9019-9C24452635B3}|foor_loop(even_numbers)\\foor_loop(even_numbers).csproj|c:\\users\\412885\\source\\repos\\foor_loop(even_numbers)\\foor_loop(even_numbers)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFA2872-AD0D-476F-9019-9C24452635B3}|foor_loop(even_numbers)\\foor_loop(even_numbers).csproj|solutionrelative:foor_loop(even_numbers)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\412885\\source\\repos\\foor_loop(even_numbers)\\foor_loop(even_numbers)\\Program.cs",
+              "RelativeDocumentMoniker": "foor_loop(even_numbers)\\Program.cs",
+              "ToolTip": "C:\\Users\\412885\\source\\repos\\foor_loop(even_numbers)\\foor_loop(even_numbers)\\Program.cs",
+              "RelativeToolTip": "foor_loop(even_numbers)\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwB4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T05:00:06.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

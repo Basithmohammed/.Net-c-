@@ -1,0 +1,7 @@
+C:\Users\412885\source\repos\multiplication\multiplication\bin\Debug\multiplication.exe.config
+C:\Users\412885\source\repos\multiplication\multiplication\bin\Debug\multiplication.exe
+C:\Users\412885\source\repos\multiplication\multiplication\bin\Debug\multiplication.pdb
+C:\Users\412885\source\repos\multiplication\multiplication\obj\Debug\multiplication.csproj.AssemblyReference.cache
+C:\Users\412885\source\repos\multiplication\multiplication\obj\Debug\multiplication.csproj.CoreCompileInputs.cache
+C:\Users\412885\source\repos\multiplication\multiplication\obj\Debug\multiplication.exe
+C:\Users\412885\source\repos\multiplication\multiplication\obj\Debug\multiplication.pdb
